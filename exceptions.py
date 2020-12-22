@@ -1,0 +1,2 @@
+class StockHuntException(BaseException):
+    pass
